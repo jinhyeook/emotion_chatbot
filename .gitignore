@@ -1,5 +1,4 @@
 # .gitignore
-ESTsoft_final/
 
 __pycache__/
 *.pyc
