@@ -1,0 +1,12 @@
+# .gitignore
+ESTsoft_final/
+
+__pycache__/
+*.pyc
+
+.DS_Store
+
+.ipynb_checkpoints/
+
+model/
+*.h5
