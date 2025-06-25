@@ -14,7 +14,7 @@
 
 ---
 **프로젝트 기술&툴**
-> 기술 : Tensorflow, Keras, LangChain, OpenCV, Python <br>
+> 기술 : Tensorflow, Keras, CNN, LangChain, OpenCV, Python <br>
 > 툴 : Visual Studio Code
 
 ---
